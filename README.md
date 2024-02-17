@@ -1,0 +1,2 @@
+# NLP-Classification-of-Medical-Specialties-using-Medical-Transcriptions
+The availability of public datasets is one of the main obstacles preventing the implementation of many current NLP techniques in clinical settings. In this work, a dataset that contains medical transcription samples that have been carefully selected for categorizing medical specialties and created for pre-training in natural language comprehension.
